@@ -1,5 +1,9 @@
 ## Hi there 👋
-
+## 🌱 I’m currently studying for a Master of Computer Science at Rice University
+## 🤔 I’m looking for help with getting an internship position
+## 📫 How to reach me: larrykuo1222@gmail.com
+## This is my LeetCode progress:
+![Leetcode Stats](https://leetcard.jacoblin.cool/Larry-Kuo)
 <!--
 **Larry-Kuo/Larry-Kuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
